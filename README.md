@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I could not figure out how to directly upload the gif to the readme, so I just uploaded it as a seperate file
 
 ## License
 
